@@ -1,0 +1,151 @@
+*{
+    background: #eecc88; 
+    
+  }
+  
+  .pig{
+    height: 70px;
+    width: 100px;
+  }
+  
+  .ri{
+    font-family: 'Do Hyeon', sans-serif;
+    background: white;
+    font-size: 20px;
+  }
+  
+  .rin{
+    font-family: 'Gaegu', cursive;
+    background: white;
+    font-size: 15px;
+  }
+  
+  .ul{
+    display: inline;
+    background: #897853;
+    font-family: 'Do Hyeon', sans-serif;
+  }
+  
+  .ul2{
+    display: inline-block;
+    background: #f8f4e1;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 12px;
+  }
+  
+  .button{
+    border-radius: 5px;
+    background: #dddddd;
+    font-size: 10px;
+    font-family: 'Do Hyeon', sans-serif;;
+    height: 18px;
+  }
+  
+  .rcimg{
+    width: 60px;
+    height: 60px;
+  }
+  
+  .footer{
+    font-size: 12px;
+    font-family: 'Gaegu', cursive;
+  }
+  
+  h2{
+    font-family: 'Black Han Sans', sans-serif;
+  }
+  
+  
+  header{
+      border: 1px;
+      border-bottom: solid #f8f4e1 2px;
+      margin: 1px 0px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  
+  nav{
+      background: #897853;
+      border: 1px solid #897853;
+      border-radius: 10px;
+      margin: 3px 0px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: px;
+  }
+  
+  section{
+      border: 5px solid #bbaa99;
+      border-radius: 5px;
+      background: white;
+      margin: 1px 0px;
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      padding: 20px 15px;
+      flex-direction: column;
+  }
+  
+  
+  aside{
+      background: #f8f4e1;
+      border: 1px solid #f8f4e1;
+      border-radius: 5px;
+      margin: 1px 0px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 5px;
+      position: sticky;
+      flex-basis: 30%;
+      
+  }
+  
+  article{
+      border: 1px solid #fbe6c2;
+      border-radius: 5px;
+      background: #fbe6c2;
+      margin: 1px 0px;
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      padding: 30px 8px;
+      flex-direction: column;
+    
+  }
+  
+  footer{
+      background: white;
+      border: 1px solid white;
+      border-radius: 2px;
+      margin: 1px 0px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 15;
+  }
+  
+  .container{
+      display: flex;
+  }
+    
+  .content{
+      display: flex;
+      flex-direction:column;
+      margin-right: 5px;
+      width: 100%;
+  }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      margin: 1px 0px;
+  }
