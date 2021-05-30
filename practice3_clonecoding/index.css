@@ -1,0 +1,396 @@
+
+.div1 {
+   
+    padding-bottom: 70px;
+    
+    padding-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    
+                                         
+}
+
+
+
+.div99 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(img1-수정-수정.png);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+
+}
+
+.logo {
+    width: 140px;
+    height: 41px;
+    margin-top: 65px;
+    
+}
+
+.p1 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    color: white;
+    
+    margin-top: 27px;
+}
+
+.p2 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    
+    margin-top: 27px;
+}
+
+.p3 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    
+    margin-top: 45px;
+}
+
+.input1 {
+   
+    margin-top: 12px;
+    border-radius: 5px;
+    border-color: white;
+    border-style: none;
+    height: 34px;
+    width: 244px;
+}
+
+.downloadlink {
+    
+    margin-top: 15px;
+    border-radius: 5px;
+    background-color: #ED6653;
+    border-style: none;
+    height: 50px;
+    width: 244px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.downloadlink:hover {
+    background-color: #e1503f;
+   
+}
+
+.div2 {
+    background-color: white;
+    text-align: center;
+    
+}
+
+.p21 {
+    text-align: center;
+    color: #060606;
+    font-size: 28px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 700;
+    margin-top: 70px;
+}
+
+.p22 {
+    text-align: center;
+    color: #060606;
+    font-size: 28px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 700;
+    margin-top: 13px;
+    margin-bottom: 30px;
+}
+
+.manimg1 {
+    width: 380px;
+    height: 355px;
+}
+
+.따옴표img {
+    width: 21px;
+    height: 21px;
+    margin-top: 60px;
+    vertical-align: top;
+
+}
+
+.p23 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+.p24 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+
+}
+
+.p25 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.w1 {
+    display: inline-block;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.manimg2 {
+    height: 307px;
+    width: 328px;
+    margin-right: 0px;
+}
+
+.따옴표img2 {
+    width: 21px;
+    height: 21px;
+    margin-top: 13px;
+    margin-left: 80px;
+    vertical-align: top;
+}
+
+.div3 {
+    margin-top: 80px;
+    background-color: white;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.div4 {
+    background-image: url(img2-수정.png);
+    background-size: 100%;
+    padding-bottom: 70px;
+    background-attachment: fixed;
+    text-align: center;
+    padding-top: 70px;
+    background-repeat:no-repeat;
+}
+
+.p26 {
+    font-size: 28px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 700;
+    color: white;
+
+}
+
+.p27 {
+    color: #F06A57;
+}
+
+.p28 {
+    font-size: 16px;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: white;
+    margin-top: 40px;
+}
+
+.div5 {
+    background-color: #f4f6f7;
+    text-align: center;
+    
+}
+
+.w2 {
+    display: inline-block;
+    text-align: left;
+    margin-top: 120px;
+    margin-bottom: 110px;
+}
+
+.bookman {
+    width: 270px;
+    height: 272px;
+    margin-top: 90px;
+    vertical-align: top;
+
+}
+
+.p51 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+
+}
+
+.p52 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    margin-top: 30px;
+
+}
+
+.qman {
+    width: 245px;
+    height: 295px;
+    margin-top: 70px;
+    vertical-align: top;
+    margin-left: 80px;
+}
+
+.div6 {
+    background-color: white;
+    text-align: center;
+}
+
+.div7 {
+    background-color: #f4f6f7;
+    text-align: center;
+}
+
+.hola {
+    width: 257px;
+    height: 217px;
+    margin-top: 60px;
+    vertical-align: top;
+    
+}
+
+.w3 {
+    display: inline-block;
+    text-align: left;
+    margin-top: 120px;
+    margin-bottom: 110px;
+    margin-right: 160px;
+}
+
+.div8 {
+    background-color: white;
+    text-align: center;
+}
+
+.w4 {
+    display: inline-block;
+    text-align: left;
+    margin-top: 120px;
+    margin-bottom: 110px;
+    margin-right: 110px;
+}
+
+
+.airgirl {
+    width: 226px;
+    height: 227px;
+    margin-top: 53px;
+    vertical-align: top;
+}
+
+.div9 {
+    background-color: #f4f6f7;
+    text-align: center;
+}
+
+.p91 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+}
+
+.p92 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.p93 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.따옴표img3 {
+    width: 21px;
+    height: 21px;
+    vertical-align: top;
+    margin-left: 50px;
+    
+    
+}
+
+.div91 {
+    display: inline-block;
+}
+
+.div92 {
+    display: inline-block;
+    margin-left: 8px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.div10 {
+    background-image: url(news-수정.png);
+    background-size: 100%;
+    background-attachment: fixed;
+    text-align: center;
+    background-repeat:no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 80px;
+    
+}
+
+.phone {
+    width: 245px;
+    height: 421px;
+    margin-top: 40px;
+}
+
+.p101 {
+    display: inline-block;
+    text-align: left;
+   
+}
+
+.p102 {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    color: white;
+    
+    
+}
+
+.appdown {
+    width: 196px;
+    height: 58px;
+    background-color: #ED6653;
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 30px;
+    
+}
+
+.appdown:hover {
+    background-color: #e1503f;
+}
+
+
+
+
+
+
+
+
+
